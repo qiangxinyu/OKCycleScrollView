@@ -1,7 +1,11 @@
 # OKCycleScrollView
-轮播图 
+title:轮播图 
+---
 
-使用方法：
+## 使用方法：
+
+
+```objectivec
   #import "OKCycleScrollView.h"
   
   ...
@@ -20,4 +24,7 @@
      */
   [OKCycleScrollView createOKCycleScrollViewInView:view Frame:frame delegate:self images:images];
   
-  本人初学者，代码如有问题或者需要改进，望大家多加指教！
+```
+  
+  
+   **本人初学者，代码如有问题或者需要改进，望大家多加指教！**
